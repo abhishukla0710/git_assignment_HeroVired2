@@ -1,5 +1,5 @@
 Below commands were executed in bash 
-shukla_abhi@MSI:~$ history
+
   192  sudo apt update
   193  sudo apt install htop nginx apache2 -y
   194  htop
